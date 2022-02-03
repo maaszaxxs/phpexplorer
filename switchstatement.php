@@ -20,7 +20,7 @@ switch ($myfruit){
 }
 echo "<br>";
 
-$musicgenre="Blues";
+$musicgenre="Rock";
 
 switch ($musicgenre){
 
