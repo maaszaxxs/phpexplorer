@@ -12,6 +12,7 @@
 <!--You can reach me on : --><?php //echo $_POST["email"];?><!--<br>-->
 <!--And --><?php //echo $_POST["name"];?><!-- is --><?php //echo $_POST["gender"];?><!--<br>-->
 <br>
+<h2>Output</h2>
 Your car is a <?php echo $_GET["model"];?> model <br>
 The car's date of manufacture is <?php echo $_GET["yom"];?><br>
 It consumes <?php echo $_GET["fuel"];?> fuel<br>
